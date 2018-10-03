@@ -56,3 +56,7 @@ Birth date,First name,Last name,Weight
 * in case the format of the file is not correct, the program should fail but say explicitly why
 * a fixed format file may be very big (several GB)
 
+###################Solution############
+fffc.jar tool will create outpurCSVFile. Following are the steps to run the tool:
+1. Export a runnable jar give some meaningful name to jar
+2. run command java -jar <jar name> <input data file path> <metadata file path>
